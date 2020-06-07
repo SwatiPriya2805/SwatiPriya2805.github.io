@@ -54,12 +54,12 @@ html {
 
 .skillcontent h4 {
     background-color: rgb(66, 64, 64);
-    height: 350px;
+    height: 360px;
     width: 160px;
     font-family: 'Poppins' monospace;
     color: grey;
     padding: 20px 20px 20px 20px;
-    margin: 0% auto 0% 7%;
+    margin: 0% auto 0% 4%;
     text-align: center;
     font-family: 'Poppins';
 }
@@ -67,7 +67,7 @@ html {
 .skillcontent h2 {
     width: 70%;
     color: grey;
-    margin: 0% auto 0% 5%;
+    margin: 0% auto 0% 3%;
     padding: 0px 0px 0px 0px;
     text-align: center;
     font-family: 'Sofia';
